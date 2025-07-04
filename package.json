@@ -56,7 +56,7 @@
   },
   "homepage": "https://github.com/thanhtamv2t/react-native-minimizer#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://packages.orokucode.com"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^19.6.0",
